@@ -1,0 +1,9 @@
+{
+	"name": "adf-ucb-sistemas",
+	"location": "chilecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59a289b5-5265-4b0b-9e42-708ff547704b",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
